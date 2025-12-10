@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "The Silent Forest",
+    "author": "Elaine Harper",
+    "genre": "Mystery",
+    "price": 14.99,
+    "publisher": "Maple Leaf Press"
+  },
+  {
+    "id": 2,
+    "name": "Beyond the Horizon",
+    "author": "Marcus Ellington",
+    "genre": "Adventure",
+    "price": 19.50,
+    "publisher": "BlueSky Publications"
+  },
+  {
+    "id": 3,
+    "name": "Digital Dreams",
+    "author": "Sophia Turner",
+    "genre": "Science Fiction",
+    "price": 22.00,
+    "publisher": "NeonWave Books"
+  },
+  {
+    "id": 4,
+    "name": "Cooking with Heart",
+    "author": "Liam Peters",
+    "genre": "Cooking",
+    "price": 27.25,
+    "publisher": "Golden Spoon House"
+  },
+  {
+    "id": 5,
+    "name": "Mindful Living",
+    "author": "Ava Reynolds",
+    "genre": "Self-Help",
+    "price": 16.75,
+    "publisher": "Harmony Publishing"
+  },
+  {
+    "id": 6,
+    "name": "Shadows of the Empire",
+    "author": "Daniel Cross",
+    "genre": "Fantasy",
+    "price": 18.99,
+    "publisher": "DragonStone Press"
+  },
+  {
+    "id": 7,
+    "name": "The Art of Code",
+    "author": "Rachel Kim",
+    "genre": "Technology",
+    "price": 29.99,
+    "publisher": "TechWorks Media"
+  },
+  {
+    "id": 8,
+    "name": "Whispers of Winter",
+    "author": "Fiona Clarke",
+    "genre": "Romance",
+    "price": 13.50,
+    "publisher": "SilverMoon Books"
+  },
+  {
+    "id": 9,
+    "name": "History of the Ancient World",
+    "author": "Dr. Nathan Cole",
+    "genre": "History",
+    "price": 24.00,
+    "publisher": "Heritage Press"
+  },
+  {
+    "id": 10,
+    "name": "The Last Algorithm",
+    "author": "Victor Shaw",
+    "genre": "Thriller",
+    "price": 21.45,
+    "publisher": "Cipher Publishing"
+  }
+]
